@@ -1,10 +1,10 @@
 ###### REACT PORTFOLIO PAGE
 
-[Profile Link](https://anu-dam-react-portfolio.herokuapp.com)
+[Heroku Profile Link](https://anu-dam-react-portfolio.herokuapp.com)
 
-![ ] ()
+![Image](reactprofile.png)
 
-![](reactprofile.png)
+
 
 
 
